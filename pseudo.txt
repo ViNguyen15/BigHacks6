@@ -1,4 +1,4 @@
-1. If student's grade is greater than or equal to 70
+1. If (student's grade greater than or equal to 70)
 
 Print "passed"
 else
