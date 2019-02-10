@@ -1,4 +1,7 @@
 package BigHacks6;
+/**
+ * @author Vi Nguyen
+ */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.UnsupportedEncodingException;
